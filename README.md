@@ -30,7 +30,6 @@ Below is a plot showing the number of bike riders over the first 10 days or so i
 # jupyter notebook   
 
 In your browser, open ``` Your_first_neural_network.ipynb ```
-
 ```
 
 The neural network is implemented in the file ``` my_answer.py ```. The whole project can be run from the notebook.
@@ -57,7 +56,7 @@ Progress: 100.0% ... Training loss: 0.064 ... Validation loss: 0.159
 
 ### Neural Network Predictions
 
-![Alt training](/assets/predictions.png)
+![Alt training](/assets/prediction.png)
 
 
 
